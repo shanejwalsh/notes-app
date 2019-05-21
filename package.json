@@ -1,0 +1,20 @@
+{
+	"name": "notes-app",
+	"version": "1.0.0",
+	"description": "my first node project",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/studioshane/notes-app.git"
+	},
+	"author": "Shane Walsh",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/studioshane/notes-app/issues"
+	},
+	"homepage": "https://github.com/studioshane/notes-app#readme"
+}
+package.json
