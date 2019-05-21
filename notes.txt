@@ -1,0 +1,2 @@
+My name is Shane.gitignore
+This is a new line
